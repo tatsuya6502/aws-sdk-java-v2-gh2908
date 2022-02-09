@@ -1,0 +1,11 @@
+.classpath
+.DS_Store
+.gradle/
+.project/
+.settings/
+.vscode/
+app.properties
+bin/
+build/
+dist/
+doc/
